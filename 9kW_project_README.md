@@ -1,4 +1,4 @@
 # car_project
-This repository holds the documentation I made over the process of years on managing my cars circuitry
+this repository documents the multi-year design, development, and optimization of custom automotive electrical and audio systems, including power distribution, signal processing, and system integration
 
-Photos of Version 5, 6, & 7 were not preservered, increments of increasing power storage, power consumption, increasing frequency response bandwidths and amplitude of bandwidths on each increment
+versions 5–7 were not preserved, but each iteration incorporated increased power capacity, higher power consumption, and expanded frequency response bandwidth with greater amplitude output
